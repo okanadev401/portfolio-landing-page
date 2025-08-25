@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-landing-page",
+  "version": "1.0.0",
+  "description": "Portfolio Landing Page - simple HTML, CSS, and JS project",
+  "main": "src/script.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "cp -r src/* dist/"
+  },
+  "keywords": [
+    "portfolio",
+    "landing-page",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Issouf Aly Nassuir",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
